@@ -2,6 +2,7 @@
 
 - 🔭 Trabalhando atualmente como Analista Júnior / TI
 - 🌱 Estudando C# .Net e Ruby
+- 🥁 | 🚴 (Hobbies). 
 - 😄 Pronouns: Ele/Dele
 
 <br>
@@ -15,7 +16,7 @@
    <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Ed-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Ed-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+   <img align="center" alt="Ed-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
   <img align="center" alt="Ed-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
    <img align="center" alt="Ed-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
    <img align="center" alt="Ed-Sql" height="30" width="40" src="https://img.icons8.com/color/2x/microsoft-sql-server.png">
