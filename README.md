@@ -1,8 +1,8 @@
 ### Olá! Sou Edmar Santos
 
 - 🔭 Trabalhando atualmente como Analista Júnior / TI
-- 🖥️ Estudando C# .Net  / .NetCore e Java
-- 🖥️ Estudando Sql e mongoDB
+- 🖥️ Estudando C# .Net  / .NetCore
+- 🖥️ Estudando Sql / T-Sql
 - 🥁 | 🎸 | 🚴 | 🏍️ | (Hobbies)
 - 😄 Pronouns: Ele/Dele
 
@@ -14,17 +14,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmarsantosm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-   <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Ed-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Ed-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Ed-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
-  <img align="center" alt="Ed-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-   <img align="center" alt="Ed-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Ed-Sql" height="30" width="40" src="https://img.icons8.com/color/2x/microsoft-sql-server.png">
-   <img align="center" alt="Ed-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  
-  
+    <img align="center" alt="Ed-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Ed-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
+    <img align="center" alt="Ed-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <img align="center" alt="Ed-Sql" height="30" width="40" src="https://img.icons8.com/color/2x/microsoft-sql-server.png">
+ <!--
+    <img align="center" alt="Ed-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+ -->
+    <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Ed-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ <!--
+   <img align="center" alt="Ed-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ -->
+ 
 </div>
   
   ##
