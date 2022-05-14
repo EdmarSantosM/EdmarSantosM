@@ -1,8 +1,8 @@
 ### Olá! Sou Edmar Santos
 
-- 🔭 Trabalhando atualmente como Analista Júnior / TI
+- 🔭 Amante da Tecnologia
 - 🖥️ Estudando C# .Net  / .NetCore
-- 🖥️ Estudando Sql / T-Sql
+- 🖥️ Sql / T-Sql
 - 🥁 | 🎸 | 🚴 | 🏍️ | (Hobbies)
 - 😄 Pronouns: Ele/Dele
 
