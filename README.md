@@ -1,8 +1,6 @@
 ### Olá! Sou Edmar Santos
 
 - 🔭 Amante da Tecnologia
-- 🖥️ Estudando C# .Net  / .NetCore
-- 🖥️ Sql / T-Sql
 - 🥁 | 🎸 | 🚴 | 🏍️ | (Hobbies)
 - 😄 Pronouns: Ele/Dele
 
