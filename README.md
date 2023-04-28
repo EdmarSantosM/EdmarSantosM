@@ -18,6 +18,7 @@
     <img align="center" alt="Ed-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
     <img align="center" alt="Ed-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" alt="Ed-Sql" height="30" width="40" src="https://img.icons8.com/color/2x/microsoft-sql-server.png">
+    <img align="center" alt="Ed-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  <!--
     <img align="center" alt="Ed-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
  -->
