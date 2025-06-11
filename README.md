@@ -2,7 +2,7 @@
 
 - 🔭 Amante da Tecnologia
 - 🥁 | 🎸 | 🚴 | 🏍️ | (Hobbies)
-- 😄 Pronouns: Ele/Dele
+
 
 <br>
 
